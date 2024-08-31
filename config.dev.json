@@ -15,15 +15,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100075778393362",
-    "100087896895418",
-    "100091300556536",
-    "100083274077411",
-    "100054684159807",
-    "61562368022800"
+    "61555635089175",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
-  "nickNameBot": "[Reborn]Uzuki Mikata V3",
-  "prefix": "$",
+  "nickNameBot": "[*]Izumi Miyamura",
+  "prefix": "*",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
